@@ -1,1 +1,1 @@
-a=input("enter your name")
+a=input("enter younhjkhr name")
